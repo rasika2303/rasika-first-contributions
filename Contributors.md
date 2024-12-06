@@ -1289,6 +1289,7 @@
 - [Asfandiyark007](https://github.com/Asfandiyark007)
 - [Sanskriti_Tiwaree](https://github.com/sanskriti0201)
 - [Makr-Xie](https://github.com/Makr-Xie)
+- [Rasika_Lande](https://github.com/rasika2303)
 - [galessi5150](https://github.com/galessi5150)
 - [GrizzyUno](https://github.com/GrizzlyUno)
 - [omar gamal mohamed](https://github.com/omariscoding1245)
